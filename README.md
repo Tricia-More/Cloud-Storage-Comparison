@@ -131,3 +131,5 @@ AWS S3 is the industry leader with high durability and global reach.
 Microsoft Azure Storage is the best choice for enterprises using Microsoft products.
 Cloud storage is the foundation of modern distributed systems, powering everything from streaming services to business applications. As technology advances, these platforms will continue to shape the future of data storage.
 
+link to Youtube video: ()
+
